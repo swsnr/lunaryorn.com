@@ -1,3 +1,4 @@
 ---
-redirect_to: 'https://swsnr.de/about'
+redirect_to: https://swsnr.de/about
 ---
+
