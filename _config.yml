@@ -1,0 +1,11 @@
+title: lunaryorn.com
+email: me@lunaryorn.com
+description: Moved to swsnr.de
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+markdown: kramdown
+
+plugins:
+  - jekyll-redirect-from
+
